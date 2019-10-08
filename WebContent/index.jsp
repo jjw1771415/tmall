@@ -1,0 +1,1 @@
+<jsp:forward page="fore_home"></jsp:forward>
